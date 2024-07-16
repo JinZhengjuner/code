@@ -1,3 +1,7 @@
-/Users/jinzhengjun/Documents/big/hadoop/code/code/bigdata/src/main/java/bigdata/WordCountMapper.java
-/Users/jinzhengjun/Documents/big/hadoop/code/code/bigdata/src/main/java/bigdata/WordCountReducer.java
-/Users/jinzhengjun/Documents/big/hadoop/code/code/bigdata/src/main/java/bigdata/JobMain.java
+/Users/jinzhengjun/Documents/big/hadoop/code/code/bigdata/src/main/java/bigdata/test02/MyPartitioner.java
+/Users/jinzhengjun/Documents/big/hadoop/code/code/bigdata/src/main/java/bigdata/test02/JobMain.java
+/Users/jinzhengjun/Documents/big/hadoop/code/code/bigdata/src/main/java/bigdata/hellotest/WordCountMapper.java
+/Users/jinzhengjun/Documents/big/hadoop/code/code/bigdata/src/main/java/bigdata/hellotest/JobMain.java
+/Users/jinzhengjun/Documents/big/hadoop/code/code/bigdata/src/main/java/bigdata/hellotest/WordCountReducer.java
+/Users/jinzhengjun/Documents/big/hadoop/code/code/bigdata/src/main/java/bigdata/test02/MyPartitionerMapper.java
+/Users/jinzhengjun/Documents/big/hadoop/code/code/bigdata/src/main/java/bigdata/test02/MyPartitionerReducer.java

@@ -1,3 +1,7 @@
-bigdata/WordCountMapper.class
-bigdata/JobMain.class
-bigdata/WordCountReducer.class
+bigdata/test02/MyPartitioner.class
+bigdata/test02/MyPartitionerMapper.class
+bigdata/test02/MyPartitionerReducer.class
+bigdata/hellotest/JobMain.class
+bigdata/hellotest/WordCountReducer.class
+bigdata/hellotest/WordCountMapper.class
+bigdata/test02/JobMain.class

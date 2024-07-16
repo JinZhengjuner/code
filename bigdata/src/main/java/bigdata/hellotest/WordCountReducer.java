@@ -1,4 +1,4 @@
-package bigdata;
+package bigdata.hellotest;
 
 
 import org.apache.hadoop.io.LongWritable;
